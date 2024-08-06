@@ -43,7 +43,7 @@ $ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.fl
 ### 5. Install Geph with flatpak
 
 ```
-$ curl -o Geph-x86_64.flatpak -L https://3.ly/aHgnA && flatpak install Geph-x86_64.flatpak
+$ curl -o Geph-x86_64.flatpak -L https://raw.githubusercontent.com/Epic-R-R/Geph-linux/master/Geph-x86_64.flatpak && flatpak install Geph-x86_64.flatpak
 ```
 
 ### 6. Run Geph
